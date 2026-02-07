@@ -19,17 +19,21 @@ Think of it as: **macOS to Unix**, or **Ubuntu to Linux kernel**. The foundation
 | Feature | OpenClaw | ResonantOS |
 |---------|----------|------------|
 | Multi-agent orchestration | Core feature | OpenClaw + enhanced coordination |
-| Memory system | Basic context | OpenClaw + Creative DNA + compression |
-| Security layer (Shield) | — | Added: Permission validation + sandboxing |
-| Rule enforcement (Logician) | — | Added: Cost checks + policy validation |
-| Self-healing (Watchdog) | Manual restart | Added: Auto-recovery + incident logs |
-| A2A protocols | — | Added: Service discovery + payments |
-| Built-in crypto wallet | — | Added: Solana integration |
-| DAO governance | — | Added: Marketplace + voting |
-| Installation | CLI setup | OpenClaw CLI + one-click DMG |
-| Dashboard | OpenClaw dashboard | OpenClaw + Mission Control UI |
+| 🧠 **R-Memory** | Basic context | Advanced memory with compression, retrieval, persistent context across sessions |
+| 💉 **R-Awareness** | Manual prompting | Intelligent context injection — right knowledge, right time, automatic |
+| 🛡️ **Symbiotic Shield** | — | Security daemon: permission validation, sandboxing, code scanning |
+| ⚖️ **Logician** | — | Deterministic rule enforcement: provable policies, audit trails, cost checks |
+| 🐕 **Watchdog** | Manual restart | Self-healing infrastructure: auto-recovery, health monitoring, incident logs |
+| 🔗 **DAO Integration** | — | On-chain governance: community decisions, blockchain transparency |
+| 💰 **Crypto Wallet** | — | Native Solana wallet: token economy, seamless value flow |
+| 💬 **Chatbot Deployment** | — | Embed AI chatbots on any website: generate code from dashboard, paste, done |
+| 📊 **Dashboard** | OpenClaw dashboard | Mission Control UI: create chatbots, monitor agents, manage everything |
+| 🔄 **A2A Protocols** | — | Agent-to-agent: service discovery, payments, marketplace |
+| 🖥️ **Computer Control** | Browser, shell, canvas | OpenClaw + mobile device control |
+| 📱 **Telegram Integration** | Single bot | Multi-bot per agent |
+| 📦 **Installation** | CLI setup | One-click DMG installer |
 
-**Bottom line:** ResonantOS = OpenClaw + security (Shield) + governance (Logician) + self-healing (Watchdog) + memory (Creative DNA) + agent economy protocols.
+**Bottom line:** ResonantOS = OpenClaw + security (Shield) + governance (Logician) + self-healing (Watchdog) + memory (R-Memory) + awareness (R-Awareness) + chatbot deployment + crypto wallet + DAO + agent economy protocols.
 
 ---
 
