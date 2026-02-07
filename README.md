@@ -1,6 +1,6 @@
 # ResonantOS
 
-**Resonant Open System Toolkit** - A human-AI symbiotic operating layer for the Resonant Economy.
+**Resonant Open System Toolkit (Multi-Agent AI)** - A human-AI symbiotic operating layer for the Resonant Economy.
 
 > Building tools for augmentation, not replacement.
 
@@ -8,7 +8,9 @@
 
 ## What is ResonantOS?
 
-ResonantOS is an open toolkit for creating autonomous AI agents that work *with* humans, not instead of them. It's the infrastructure layer for the [Resonant Economy](https://resonantos.com) - where human creativity and AI capability amplify each other.
+ResonantOS is a multi-agent AI toolkit that runs on top of [OpenClaw](https://github.com/clawdbot/clawdbot) and your custom AI. It transforms a single AI assistant into an orchestrated team of specialized agents that work *with* humans, not instead of them.
+
+It's the infrastructure layer for the [Resonant Economy](https://resonantos.com) - where human creativity and AI capability amplify each other.
 
 ---
 
