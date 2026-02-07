@@ -8,9 +8,17 @@
 
 ## What is ResonantOS?
 
-ResonantOS is a multi-agent AI toolkit that runs on top of [OpenClaw](https://github.com/clawdbot/clawdbot) and your custom AI. It transforms a single AI assistant into an orchestrated team of specialized agents that work *with* humans, not instead of them.
+ResonantOS is a multi-agent AI toolkit that runs on top of [OpenClaw](https://github.com/clawdbot/clawdbot) and your custom AI.
 
-It's the infrastructure layer for the [Resonant Economy](https://resonantos.com) - where human creativity and AI capability amplify each other.
+**What it adds:**
+- 🛡️ **Symbiotic Shield** — Security layer that protects your agents and data
+- ⚖️ **Logician** — Deterministic rule enforcement (provable policies, audit trails)
+- 🧠 **R-Memory** — Advanced memory with compression and persistent context
+- 💉 **R-Awareness** — Intelligent context injection at the right time
+- 🐕 **Watchdog** — Self-healing infrastructure with automatic recovery
+- 🔗 **DAO Integration** — On-chain governance and community-driven decisions
+
+ResonantOS is the infrastructure layer for the [Resonant Economy](https://resonantos.com) — where human creativity and AI capability amplify each other.
 
 ---
 
