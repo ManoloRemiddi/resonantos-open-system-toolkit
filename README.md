@@ -1,6 +1,6 @@
 # ResonantOS
 
-**Resonant Open System Toolkit (Multi-Agent AI)** - A human-AI symbiotic operating layer for the Resonant Economy.
+**Resonant Open System Toolkit (Multi-Agent AI)** - The First OS for AI Agent Economies
 
 > Building tools for augmentation, not replacement.
 
@@ -8,48 +8,64 @@
 
 ## What is ResonantOS?
 
-ResonantOS is a multi-agent AI toolkit that runs on top of [OpenClaw](https://github.com/clawdbot/clawdbot) and your custom AI.
+ResonantOS is an operating system layer that runs on top of [OpenClaw](https://github.com/clawdbot/clawdbot). Not a fork, not a replacement.
 
-**What it adds:**
-- 🛡️ **Symbiotic Shield** — Security layer that protects your agents and data
-- ⚖️ **Logician** — Deterministic rule enforcement (provable policies, audit trails)
-- 🧠 **R-Memory** — Advanced memory with compression and persistent context
-- 💉 **R-Awareness** — Intelligent context injection at the right time
-- 🐕 **Watchdog** — Self-healing infrastructure with automatic recovery
-- 🔗 **DAO Integration** — On-chain governance and community-driven decisions
-
-ResonantOS is the infrastructure layer for the [Resonant Economy](https://resonantos.com) — where human creativity and AI capability amplify each other.
+Think of it as: **macOS to Unix**, or **Ubuntu to Linux kernel**. The foundation is OpenClaw; ResonantOS adds the infrastructure layer for the agent economy.
 
 ---
 
-## Features
+## ResonantOS vs. OpenClaw
 
-### 🧠 R-Memory
-Advanced memory system with compression, retrieval, and persistent context across sessions. Your AI remembers what matters.
+| Feature | OpenClaw | ResonantOS |
+|---------|----------|------------|
+| Multi-agent orchestration | Core feature | OpenClaw + enhanced coordination |
+| Memory system | Basic context | OpenClaw + Creative DNA + compression |
+| Security layer (Shield) | — | Added: Permission validation + sandboxing |
+| Rule enforcement (Logician) | — | Added: Cost checks + policy validation |
+| Self-healing (Watchdog) | Manual restart | Added: Auto-recovery + incident logs |
+| A2A protocols | — | Added: Service discovery + payments |
+| Built-in crypto wallet | — | Added: Solana integration |
+| DAO governance | — | Added: Marketplace + voting |
+| Installation | CLI setup | OpenClaw CLI + one-click DMG |
+| Dashboard | OpenClaw dashboard | OpenClaw + Mission Control UI |
 
-### 💉 R-Awareness
-Intelligent context injection. The right knowledge, at the right time, without manual prompting.
+**Bottom line:** ResonantOS = OpenClaw + security (Shield) + governance (Logician) + self-healing (Watchdog) + memory (Creative DNA) + agent economy protocols.
 
-### 🛡️ Symbiotic Shield
-Security daemon that monitors, protects, and ensures safe operation. Trust through transparency.
+---
 
-### 🐕 Watchdog
-Self-healing infrastructure. Automatic recovery, health monitoring, and graceful degradation.
+## Fully Compatible
 
-### 🔗 DAO Integration
-On-chain governance connection. Community-driven decisions with blockchain transparency.
+- ✅ All OpenClaw updates flow through automatically
+- ✅ One-click installer adds ResonantOS features
+- ✅ Open system - you can still use vanilla OpenClaw anytime
+- ✅ No lock-in, no forking, no compatibility issues
 
-### 💰 Crypto Wallet
-Native wallet integration for the token economy. Seamless value flow.
+---
 
-### ⚖️ Logician
-Deterministic rule enforcement for AI. Provable policies, audit trails, and governance you can trust.
+## Installation Modes
 
-### 💬 Chatbot Deployment
-Embed AI chatbots on any website. Generate code from the dashboard, paste, done.
+**Full Install:** OpenClaw + ResonantOS (one package, for new users)
 
-### 📊 Dashboard
-Real-time visibility into your agent ecosystem. Create chatbots, monitor agents, manage everything from one place.
+**Upgrade Install:** ResonantOS layer only (for existing OpenClaw users)
+- Clones your existing setup
+- Your original data stays untouched
+- Switch between vanilla and ResonantOS anytime
+
+---
+
+## Who is ResonantOS For?
+
+### Creators who:
+- Need a team but work solo
+- Value creative sovereignty over convenience
+- Want AI augmentation, not replacement
+- Refuse to be locked into walled gardens
+- Believe tools should serve vision, not extract value
+
+### Not for:
+- Corporate workflows (this is for individuals)
+- Casual users (you're building something serious)
+- People who want "set it and forget it" (you stay in control)
 
 ---
 
@@ -63,14 +79,32 @@ ResonantOS is built on **Augmentatism** - the belief that the future belongs to 
 
 ---
 
-## Status
+## Current Status
 
-🚧 **Coming Soon** - Currently in private development.
+🚧 **In Development** - Public beta March 2026
 
-Follow our progress:
+We're building:
+- ✅ Core multi-agent system (operational)
+- 🔄 macOS installer (in progress)
+- 📝 DAO governance (spec phase)
+- 📐 Agent marketplace (design phase)
+
+---
+
+## Security
+
+Don't trust us? Good.
+
+**[Build Your Own Shield](BUILD_YOUR_OWN_SHIELD.md)** - A guide to creating your own code security scanner. No trust required. Build it yourself, verify our code, then install.
+
+---
+
+## Links
+
 - 🌐 [resonantos.com](https://resonantos.com)
+- 💬 [Discord](https://discord.gg/MRESQnf4R4)
 - 📺 [The Augmented Mind](https://youtube.com/@theaugmentedmind) (YouTube)
-- 📝 [The Augmented Mind](https://theaugmentedmind.substack.com) (Substack)
+- 📝 [Newsletter](https://augmentedmind.co/)
 
 ---
 
