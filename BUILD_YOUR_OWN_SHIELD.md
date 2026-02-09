@@ -226,11 +226,6 @@ Once your Shield works:
 3. Review any findings
 4. If clean (or findings are false positives you understand), proceed with install
 
-```bash
-# Example usage
-git clone https://github.com/ManoloRemiddi/resonantos-open-system-toolkit.git
-python your_shield.py ./resonantos-open-system-toolkit
-```
 
 ---
 
