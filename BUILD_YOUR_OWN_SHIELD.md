@@ -27,6 +27,7 @@ Code that extracts API keys from environment variables, config files, or keychai
 - Reading from `~/.clawdbot/`, `~/.config/`, `~/.aws/`, `~/.ssh/`
 - Accessing environment variables like `ANTHROPIC_API_KEY`, `OPENAI_API_KEY`
 - Sending data to external URLs after reading sensitive files
+- Reading from Windows credential store or registry
 
 ### 2. Data Exfiltration
 Code that collects personal data and transmits it to external servers.
@@ -54,6 +55,10 @@ Code that runs secretly or persists without user knowledge.
 - Modifying shell profiles (`.bashrc`, `.zshrc`)
 - Background processes that survive terminal close
 - Cron job installation
+- Creating scheduled tasks (`schtasks`)
+- Modifying Windows registry for persistence (`HKCU\Software\Microsoft\Windows\CurrentVersion\Run`)
+- PowerShell execution policy bypass (`-ExecutionPolicy Bypass`)
+- WScript/CScript execution of `.vbs` files
 
 ### 5. Network Backdoors
 Code that opens network access for remote control.
@@ -98,7 +103,7 @@ Give your AI (Claude, GPT, or any you trust) these instructions:
 
 4. **Scanning approach:**
    - Recursively scan all files in the directory
-   - Focus on: `.py`, `.js`, `.ts`, `.sh`, `.bash`, `.zsh`, `.rb`, `.go`, `.rs`, `.swift`
+   - Focus on: `.py`, `.js`, `.ts`, `.sh`, `.bash`, `.zsh`, `.rb`, `.go`, `.rs`, `.swift`, `.bat`, `.cmd`, `.ps1`, `.vbs`
    - Also check: `package.json`, `requirements.txt`, `Makefile`, config files
    - Skip: `node_modules/`, `venv/`, `.git/`, binary files
 
